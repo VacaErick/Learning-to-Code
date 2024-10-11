@@ -1,4 +1,4 @@
-package Ats;
+package Tips1001Java;
 
 public class Exp1_HelloWorld {
     public static void main(String[] args) throws Exception {
